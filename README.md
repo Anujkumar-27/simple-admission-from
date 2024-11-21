@@ -2,5 +2,5 @@
 Hi I am T.Y.BCA student
 i make this simple admission from using only html input, select, textarea tags
 
-<h3>Icreated for only practice purpose 
+<h3>I created for only practice purpose 
   thank you </h3>
