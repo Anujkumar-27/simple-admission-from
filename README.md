@@ -1,7 +1,6 @@
 # simple-admission-from
-
-ih i am anujkumar
+Hi I am T.Y.BCA student
 i make this simple admission from using only html input, select, textarea tags
 
-<h3>i created for only practice purpose 
-thank you </h3>
+<h3>Icreated for only practice purpose 
+  thank you </h3>
